@@ -4,4 +4,4 @@ It was a group project that we completed in a 36 hour hackathon , HACKFEST'22 or
 
 The link for the project is : https://github.com/dhruvilun522/fire_alarm
 
-The proposal amd required details concrerning the project is attached in the files here.
+The proposal and required details concrerning the project is attached in the files here.
